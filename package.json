@@ -1,0 +1,22 @@
+{
+  "name": "cvbootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanguyHOSPICE/cvBootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanguyHOSPICE/cvBootstrap/issues"
+  },
+  "homepage": "https://github.com/TanguyHOSPICE/cvBootstrap#readme",
+  "dependencies": {
+    "typed.js": "^2.0.12"
+  }
+}
